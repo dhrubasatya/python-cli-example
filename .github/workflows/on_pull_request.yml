@@ -6,6 +6,8 @@ name: Trigger on pull request workflow
 # or API.
 on:
   pull_request:
+    types:
+      - opened
     branches:
       - develop
       
