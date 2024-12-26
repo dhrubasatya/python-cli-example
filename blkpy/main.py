@@ -8,3 +8,4 @@ def main(device, verbose):
     print(f"Device: {device}")
     print(f"Verbose: {verbose}")
     print(f"{run_lsblk(device)}")
+# Adding a new comment here
