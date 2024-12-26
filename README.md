@@ -1,4 +1,3 @@
-This is a test
 # [![Coursera Course](./assets/banner.svg)](https://insight.paiml.com/nvd "Coursera Course")
 
 # Python CLI Example
